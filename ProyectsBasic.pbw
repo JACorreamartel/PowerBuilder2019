@@ -1,6 +1,6 @@
 Save Format v3.0(19990112)
 @begin Targets
- 0 "menu.pbt";
+ 0 "menuexercise.pbt";
 @end;
-DefaultTarget "menu.pbt";
-DefaultRemoteTarget "menu.pbt";
+DefaultTarget "menuexercise.pbt";
+DefaultRemoteTarget "menuexercise.pbt";
