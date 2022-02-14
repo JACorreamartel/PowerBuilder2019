@@ -1,6 +1,7 @@
 Save Format v3.0(19990112)
 @begin Targets
  0 "condicionales.pbt";
+ 1 "estructura_repetitiva_for.pbt";
 @end;
-DefaultTarget "condicionales.pbt";
-DefaultRemoteTarget "condicionales.pbt";
+DefaultTarget "estructura_repetitiva_for.pbt";
+DefaultRemoteTarget "estructura_repetitiva_for.pbt";
